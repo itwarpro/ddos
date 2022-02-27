@@ -29,6 +29,4 @@ while [ $site_limit -gt $runned_docker ]; do
   fi
 
   ((line_index++))
-
-	sleep 1
 done
